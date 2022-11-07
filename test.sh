@@ -1,4 +1,5 @@
 #!/bin/bash
+tri=${new}
 command=${1}
 location=${2}
 name=${3}
