@@ -1,5 +1,5 @@
 #!/bin/bash
-name='$five'
+name='$five2'
 command=${1}
 location=${2}
 name=${3}
